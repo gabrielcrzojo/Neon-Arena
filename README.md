@@ -1,6 +1,6 @@
 # ⚡ Neon Arena — Par ou Ímpar
 
-O **Neon Arena — Par ou Ímpar** é uma releitura moderna e visualmente impactante do clássico jogo de par ou ímpar. Esta versão foi migrada de uma lógica original em Python para uma aplicação web completa, rodando exclusivamente com **HTML5, CSS3 e JavaScript Vanilla**[cite: 1.
+O **Neon Arena — Par ou Ímpar** é uma releitura moderna e visualmente impactante do clássico jogo de par ou ímpar. Esta versão foi migrada de uma lógica original em Python para uma aplicação web completa, rodando exclusivamente com **HTML5, CSS3 e JavaScript**.
 
 ## 🔗 Jogue Agora
 Acesse a arena através do link:
@@ -10,20 +10,20 @@ Acesse a arena através do link:
 
 ## 🚀 Sobre o Projeto
 
-O projeto foi criado para transformar uma lógica simples de jogo em uma experiência visual imersiva. Ao utilizar tecnologias nativas do navegador, o jogo elimina a necessidade de instalações ou dependências externas, funcionando perfeitamente via **GitHub Pages**[cite: 4, 8].
+O projeto foi criado para transformar uma lógica simples de jogo em uma experiência visual imersiva. Ao utilizar tecnologias nativas do navegador, o jogo elimina a necessidade de instalações ou dependências externas, funcionando perfeitamente via **GitHub Pages**.
 
 ### ✨ Funcionalidades
-* **Cadastro de Jogador:** Registro de nome para personalização da experiência[cite: 5, 9].
-* **Sistema de Placar:** Monitoramento em tempo real de vitórias, derrotas e total de partidas[cite: 5, 8].
+* **Cadastro de Jogador:** Registro de nome para personalização da experiência.
+* **Sistema de Placar:** Monitoramento em tempo real de vitórias, derrotas e total de partidas.
 * **Interface Interativa:** Seleção visual intuitiva entre Par e Ímpar.
-* **Design Neon Arena:** Estética Dark Mode com elementos vibrantes e brilho dinâmico[cite: 7, 10].
-* **Feedback Visual:** Animações fluidas ao revelar os resultados[cite: 10].
+* **Design Neon Arena:** Estética Dark Mode com elementos vibrantes e brilho dinâmico.
+* **Feedback Visual:** Animações fluidas ao revelar os resultados.
 
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estruturação semântica e acessível[cite: 9].
-* **CSS3:** Estilização avançada com variáveis, Grid, Flexbox e animações de keyframes[cite: 10].
-* **JavaScript (ES6+):** Motor de lógica do jogo, sorteio da máquina e manipulação dinâmica do DOM.
+* **CSS3:** Estilização avançada com variáveis, Grid, Flexbox e animações de keyframes.
+* **JavaScript:** Motor de lógica do jogo, sorteio da máquina e manipulação dinâmica do DOM.
 
 ## 📂 Estrutura de Arquivos
 ```text
